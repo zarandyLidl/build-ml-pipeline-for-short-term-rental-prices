@@ -567,3 +567,8 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+## Accessing wandb project and repository
+
+[wandb] (https://wandb.ai/udacity_kurzus/nyc_airbnb?workspace=user-zarzidl)
+[GitHub] (https://github.com/zarandyLidl/build-ml-pipeline-for-short-term-rental-prices/)
